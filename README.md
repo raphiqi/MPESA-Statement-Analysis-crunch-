@@ -2,8 +2,6 @@
 
 The goal of this analysis is to develop a comprehensive credit scoring system for individuals based on their M-Pesa transaction history. By leveraging various transaction-related features, such as completion time, transaction status, withdrawal patterns, and negative balances, the project aims to assess the creditworthiness of users.
 
-**BUSINESS UNDERSTANDING**
-
 **a.) What is it?**
 
 The mission is to make borrowing money a bit fairer and more understandable for everyone. We're working on a system that looks at how people handle their M-Pesa transactions, like paying bills or sending money, to help businesses decide if they can trust someone to pay back a loan. Specifically, we're thinking about how this can benefit groups like SACCOs, making it easier for them to know their customers better.
