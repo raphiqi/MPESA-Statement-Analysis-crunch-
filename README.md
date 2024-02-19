@@ -1,4 +1,4 @@
-THE GOAL
+#THE GOAL
 The goal of this analysis is to develop a comprehensive credit scoring system for individuals based on their M-Pesa transaction history. By leveraging various transaction-related features, such as completion time, transaction status, withdrawal patterns, and negative balances, the project aims to assess the creditworthiness of users.
 
 BUSINESS UNDERSTANDING
