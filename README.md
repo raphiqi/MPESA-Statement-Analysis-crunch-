@@ -27,3 +27,32 @@ We're not just about numbers. We want to give businesses info they can actually 
 - Feature Engineering
 - Modeling and visualization
 - Analysis
+- 
+**DATA COLLECTION**
+  
+The data comes from MPESA Statement is derived from USSD Code *334# for a month. Since the data came in form of a PDF data had to be converted to CSV format using the link https://products.groupdocs.app/conversion/pdf-to-csv which also due security purposes enables you to insert passcode given once downloaded the statement as an OTP code.
+
+- Load the the MPESA Statement data into the variable.
+- Importing the libraries.
+- Load CSV file into a dataframe.
+- Load the data types of each column in the dataframe.
+
+**DATA CLEANING**
+
+- Replace the withdrawn column missing values with '0'.
+- Convert 'Completion Time' with corrected format of datetime.
+- Convert 'Withdrawn' and 'Balance' to numeric (remove commas and convert to float).
+- Encode 'Transaction Status'.
+
+**FEATURE ENGINEERING**
+
+- Create a new column for transaction date.
+- Plotting the transaction frequency per day.
+- Create a new column for transaction week.
+- Plotting the transaction frequency per week.
+- Function to categorize transaction types based on keywords
+- Average for each transaction.
+- Time of day analysis.
+- Occurence of negative balance.
+
+**THE MODEL**
