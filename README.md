@@ -24,8 +24,8 @@ We're not just about numbers. We want to give businesses info they can actually 
 
 **e.) How is the design?**
 
-Data Collection
-Data Cleaning
-Feature Engineering
-Modeling and visualization
-Analysis
+- Data Collection
+- Data Cleaning
+- Feature Engineering
+- Modeling and visualization
+- Analysis
