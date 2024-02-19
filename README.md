@@ -56,3 +56,4 @@ The data comes from MPESA Statement is derived from USSD Code *334# for a month.
 - Occurence of negative balance.
 
 **THE MODEL**
+Used both **Decision Tree model** and **Naive Bayes model** to give a variety of options for results and they were conclusive.
